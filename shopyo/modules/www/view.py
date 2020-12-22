@@ -48,4 +48,3 @@ def index():
     # return str(module_blueprint.template_folder)
 
     return redirect(url_for("shop.homepage"))
-
