@@ -141,7 +141,6 @@ Support team if you are stuck
 
 Shopyo's engine which provides a Django-like structure and awesome mechanisms has been abstracted into [hadbox](https://www.github.com/hadbox/hadbox)
 
-:tunisia:
-
+:flag_tunisia:
 
 
